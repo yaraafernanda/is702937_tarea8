@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "nombre": "Laptop HP Pavilion 13-AN0012LA",
+    "marca": "HP",
+    "precio": 14399,
+    "descripcion": "13.3 pulgadas Intel Core i5 8 GB RAM",
+    "existencia": 29
+}, {
+    "id": 2,
+    "nombre": "MacBook Air",
+    "marca": "Apple",
+    "precio": 20999,
+    "descripcion": "13 pulgadas Intel Core i5 8 GB RAM",
+    "existencia": 60
+}, {
+    "id": 3,
+    "nombre": "Laptop Dell Inspiron I3585",
+    "marca": "Dell",
+    "precio": 10781,
+    "descripcion": "15.6 pulgadas AMD Ryzen 3 2300U 4 GB RAM",
+    "existencia": 15
+}, {
+    "id": 4,
+    "nombre": "MacBook Pro",
+    "marca": "Apple",
+    "precio": 23999,
+    "descripcion": "13 pulgadas Intel Core i5 8GB RAM",
+    "existencia": 56
+}, {
+    "id": 5,
+    "nombre": "Laptop HP Envy 13-ah0002",
+    "marca": "HP",
+    "precio": 15880,
+    "descripcion": "13.3 pulgadas Intel Core i5 8 GB RAM",
+    "existencia": 29
+}]
